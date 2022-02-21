@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Using Python requests and Google Maps Geocoding API
+
 
 # Enter API KEY
 api_key = "Your API KEY"
